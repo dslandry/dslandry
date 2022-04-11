@@ -13,7 +13,7 @@
 
 <ul>
   <li>Music production (FL studio)</li>
-  <li>Basketball 🏀 and Weigh training 💪🏾</li>
+  <li>Basketball 🏀 and Weight training 💪🏾</li>
   <li>Video games 🎮</li>
 </ul>
 
